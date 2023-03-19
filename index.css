@@ -1,11 +1,11 @@
 body {
-    background-image: url("ghost.avif") no-repeat center center fixed;
+    background-image: url("ghost.avif");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     height: 100vh;
     background-size: cover;
-    //background-repeat: no-repeat;
+    background-repeat: no-repeat;
     font-family: Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,;
     font-weight: bold;
     text-align: center;
