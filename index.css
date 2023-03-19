@@ -1,8 +1,5 @@
 body {
-    background-image: url("ghost.avif");
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background-image: url("ghost.avif") no-repeat center center fixed;
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
